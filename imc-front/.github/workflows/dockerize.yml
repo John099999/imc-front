@@ -1,7 +1,5 @@
 on:
     push:
-      
-    
 jobs: 
   dockerize:
     runs-on: ubuntu-latest
